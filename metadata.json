@@ -1,0 +1,6 @@
+{
+  "name": "BD Solicitudes Diseño - SLA 2026",
+  "description": "Sistema de gestión y seguimiento de solicitudes de diseño gráfico, asignación por mesas y control de tiempos SLA 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
